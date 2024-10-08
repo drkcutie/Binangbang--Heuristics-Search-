@@ -1,2 +1,1 @@
-# Binangbang--Heuristics-Search-
-# Binangbang--Heuristics-Search-
+uses Simulated Annealing Algorithm
